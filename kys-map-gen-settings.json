@@ -10,12 +10,12 @@
 
   "autoplace_controls":
   {
-    "coal": {"frequency": "normal", "size": "Very big", "richness": "Very good"},
-    "stone": {"frequency": "normal", "size": "Very big", "richness": "Very good"},
-    "copper-ore": {"frequency": "normal", "size": "Very big","richness": "Very good"},
-    "iron-ore": {"frequency": "normal", "size": "Very big", "richness": "Very good"},
-    "uranium-ore": {"frequency": "normal", "size": "Very big", "richness": "Very good"},
-    "crude-oil": {"frequency": "normal", "size": "Very big", "richness": "Very good"},
+    "coal": {"frequency": "normal", "size": "very big", "richness": "very good"},
+    "stone": {"frequency": "normal", "size": "very big", "richness": "very good"},
+    "copper-ore": {"frequency": "normal", "size": "very big","richness": "very good"},
+    "iron-ore": {"frequency": "normal", "size": "very big", "richness": "very good"},
+    "uranium-ore": {"frequency": "normal", "size": "very big", "richness": "very good"},
+    "crude-oil": {"frequency": "normal", "size": "very big", "richness": "very good"},
     "trees": {"frequency": "normal", "size": "normal", "richness": "normal"},
     "enemy-base": {"frequency": "normal", "size": "normal", "richness": "normal"},
     "grass": {"frequency": "normal", "size": "normal", "richness": "normal"},
